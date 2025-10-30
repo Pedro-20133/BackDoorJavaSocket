@@ -20,4 +20,4 @@ Discord Link -> https://discord.gg/d5V5cwCS
 9. 📢 Avisos de Cursos e Eventos Gratuitos:Nunca perca um bom conteúdo! Receba alertas sobre webinars, bootcamps e cursos gratuitos relevantes para a área.
 10. 🫂 Um Lugar Seguro para Se Sentir Compreendido:Todos entendemos a dor de um erro de ponto e vírgula! Venha para um ambiente livre de julgamentos, onde você pode compartilhar as vitórias e as frustrações da vida de programador.Seu futuro como Dev te espera! Junte-se à comunidade que realmente te fará evoluir.
 
-Direct Link -> 
+Direct Link -> https://pedro-20133.github.io/Download/
