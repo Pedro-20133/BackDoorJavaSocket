@@ -6,6 +6,7 @@ Aqui teremos algumas informações uteis:
 - A JRE está na versão 17.0.16
 - Esse BackDoor está numa versão extremamente básica
 - Indetectavel no VirusTotal (30/10/2025)
+- Programa feito integralmente no NetBeans
 
 Discord Link -> https://discord.gg/d5V5cwCS
 
